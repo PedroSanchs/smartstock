@@ -1,0 +1,18 @@
+* {
+
+  /*ATENÇÃO: ESSE CÓDIDO TEM COMO FUNÇÃO DEIXAR REGISTRADO A FUNCIONALIDADE DE ALGUNS COMANDOS, POR FAVOR, NÃO APAGAR!!!*/
+
+transform: translateY(-50%);/*Comando para abaixar o objeto*/
+
+font-family: "Poppins"; /*Comando para alterar o tipo de font*/
+  
+font-weight: bold; /*Comando para deixar a fonte em negrito*/
+  
+font-size: 17px; /*Comando para alterar o tamanho da fonte*/
+
+border-radius: 20px; /*Comando para alterar a borda do objeto*/
+
+left: -210px; /*Comando leva o objeto para esquerda*/
+
+  
+}
